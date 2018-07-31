@@ -1,0 +1,475 @@
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\JobCardSystem.exe.config
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\JobCardSystem.exe.manifest
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\JobCardSystem.application
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\JobCardSystem.exe
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\JobCardSystem.pdb
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Data.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\MaterialSkin.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\MetroFramework.Design.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\MetroFramework.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\MetroFramework.Fonts.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\MySql.Data.DLL
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Office.v17.1.Core.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Data.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Office.v17.1.Core.xml
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.csprojResolveAssemblyReference.cache
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmlogin.resources
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmsplashscreen.resources
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmusermain.resources
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmUserManager.resources
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.Home.resources
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Properties.Resources.resources
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.csproj.GenerateResource.Cache
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.exe.licenses
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.exe.manifest
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.application
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.exe
+E:\Projects\Job card Automation\Final Year Project files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.pdb
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\JobCardSystem.exe.config
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\JobCardSystem.exe.manifest
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\JobCardSystem.application
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\JobCardSystem.exe
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\JobCardSystem.pdb
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.Shared.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Data.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DGV Printer.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\FlashControlV71.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\MaterialSkin.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\MetroFramework.Design.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\MetroFramework.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\MetroFramework.Fonts.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\SQLABC_ModernUI.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\Tulpep.NotificationWindow.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ShockwaveFlashObjects.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\stdole.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Office.v17.1.Core.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Data.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Office.v17.1.Core.xml
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.csproj.ResolveComReference.cache
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmadminhome.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmbackupdb.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmBill.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmbillinfogrid.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmcheckconn.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmcommunication.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmcommunicationadmin.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmconfirmedItemsreport.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmconfirmequipment.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmconfirmequipmentgrid.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmcreatecustomer.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmcustomergrid.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmequipdiagnosisgrid.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmequipfaults.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmequipfaultsgrid.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmequipmentdiagnosis.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmequipmentstatus.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmequipmentstatusgrid.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmExternalcomm.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmExternalCommAdmin.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmfaultdictionary.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmforgotpassword.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmInternalComm.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmInternalCommadmin.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmitempickup.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmItemdiagnosisreport.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmItemlogreport.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmitemquotereport.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmitemrequirementsreport.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmloadreqgrid.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmloadtarrifgrid.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmlogequipgridadmin.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmlogequipmentgrid.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmloginaccount.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmmanageusers.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmnewpassword.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmpendingItemsreport.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmquoteInfoGrid.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmquote.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmreportsmenu.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmrequirements.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmrequirementsgrid.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmsecurityquestion.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmsetupdepartments.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmsetupdeptgrid.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmsetupequipmentfaults.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmsetupshifts.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmsetuptarrifs.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmlogin.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmlogequipment.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmshiftInfoGrid.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmsplashscreen.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmmanageusersgrid.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmtrainingvideos.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmUserManager.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmusers.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmviewcleareditems.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmviewcleareditemsadmin.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmviewloggedequip.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmviewpickeditems.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmviewpickeditemstech.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmviewuncleareditems.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.Home.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Properties.Resources.resources
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.csproj.GenerateResource.Cache
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.exe.licenses
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.exe.manifest
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.application
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.exe
+E:\Projects\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.pdb
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\JobCardSystem.exe.config
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\JobCardSystem.exe.manifest
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\JobCardSystem.application
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\JobCardSystem.exe
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\JobCardSystem.pdb
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.Shared.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Data.v17.1.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DGV Printer.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\FlashControlV71.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\MaterialSkin.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\MetroFramework.Design.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\MetroFramework.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\MetroFramework.Fonts.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\SQLABC_ModernUI.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\Tulpep.NotificationWindow.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ShockwaveFlashObjects.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\stdole.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Office.v17.1.Core.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Data.v17.1.xml
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\DevExpress.Office.v17.1.Core.xml
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.csprojResolveAssemblyReference.cache
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.csproj.ResolveComReference.cache
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmadminhome.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmbackupdb.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmBill.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmbillinfogrid.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmcheckconn.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmcommunication.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmcommunicationadmin.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmconfirmedItemsreport.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmconfirmequipment.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmconfirmequipmentgrid.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmcreatecustomer.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmcustomergrid.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmequipdiagnosisgrid.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmequipfaults.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmequipfaultsgrid.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmequipmentdiagnosis.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmequipmentstatus.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmequipmentstatusgrid.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmExternalcomm.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmExternalCommAdmin.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmfaultdictionary.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmforgotpassword.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmInternalComm.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmInternalCommadmin.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmitempickup.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmItemdiagnosisreport.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmItemlogreport.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmitemquotereport.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmitemrequirementsreport.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmloadreqgrid.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmloadtarrifgrid.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmlogequipgridadmin.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmlogequipmentgrid.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmloginaccount.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmmanageusers.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmnewpassword.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmpendingItemsreport.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmquoteInfoGrid.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmquote.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmreportsmenu.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmrequirements.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmrequirementsgrid.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmsecurityquestion.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmsetupdepartments.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmsetupdeptgrid.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmsetupequipmentfaults.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmsetupshifts.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmsetuptarrifs.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmlogin.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmlogequipment.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmshiftInfoGrid.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmsplashscreen.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmmanageusersgrid.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmtrainingvideos.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmUserManager.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmusers.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmviewcleareditems.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmviewcleareditemsadmin.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmviewloggedequip.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmviewpickeditems.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmviewpickeditemstech.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.frmviewuncleareditems.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Forms.Home.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.Properties.Resources.resources
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.csproj.GenerateResource.Cache
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.exe.licenses
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.exe.manifest
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.application
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.exe
+E:\Projects\Job card Automation Prototype 4(25th July 2018)\Job card Automation\Final Year Project Development files\JobCardSystem\JobCardSystem\obj\Debug\JobCardSystem.pdb

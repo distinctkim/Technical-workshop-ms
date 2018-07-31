@@ -1,0 +1,645 @@
+Index was outside the bounds of the array. - 2/22/2018 10:26:01 AM
+Connection must be valid and open. - 4/21/2018 11:12:21 AM
+Unable to connect to any of the specified MySQL hosts. - 4/21/2018 11:16:07 AM
+Connection must be valid and open. - 4/21/2018 11:16:07 AM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:24 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:30 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:31 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:31 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:32 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:32 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:32 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:32 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:32 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:32 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:33 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:33 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:33 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:33 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:33 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:34 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:34 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:34 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:34 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:34 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:34 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:35 PM
+Table 'jobauto.tblequipdiagnose' doesn't exist - 4/26/2018 3:51:35 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:53:35 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:53:41 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:53:41 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:53:42 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:53:42 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:53:42 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:53:42 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:53:43 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:53:43 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:53:43 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:53:43 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:53:43 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:09 PMU
+nknown column 'lid' in 'where clause' - 4/26/2018 3:57:11 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:11 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:12 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:12 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:12 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:12 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:12 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:13 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:13 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:13 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:13 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:13 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:13 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:14 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:14 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:14 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:14 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:14 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:14 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:15 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:15 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:15 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:15 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:15 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 3:57:16 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:02:14 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:02:17 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:02:18 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:02:22 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:02:23 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:02:23 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:02:23 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:07:09 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:07:10 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:07:11 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:07:11 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:07:11 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:07:11 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:07:11 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:07:12 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:28 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:32 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:32 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:33 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:33 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:33 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:34 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:34 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:34 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:34 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:34 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:34 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:35 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:35 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:35 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:35 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:35 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:35 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:35 PM
+Unknown column 'edid' in 'where clause' - 4/26/2018 4:21:36 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:53:39 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:53:41 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:53:41 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:53:41 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:53:42 PM
+Unknown column 'lid' in 'where clause' - 4/26/2018 4:53:42 PM
+Fatal error encountered during command execution. - 4/27/2018 2:37:50 PM
+Fatal error encountered during command execution. - 4/27/2018 2:37:51 PM
+Fatal error encountered during command execution. - 4/27/2018 2:37:55 PM
+Fatal error encountered during command execution. - 4/27/2018 2:38:01 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:47 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:49 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:49 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:50 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:51 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:51 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:51 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:51 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:52 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:52 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:52 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:52 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:52 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:53 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:53 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:54 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:54 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:54 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:55 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:55 PM
+Fatal error encountered during command execution. - 4/27/2018 2:39:56 PM
+Fatal error encountered during command execution. - 4/27/2018 2:40:02 PM
+Fatal error encountered during command execution. - 4/27/2018 2:40:02 PM
+Fatal error encountered during command execution. - 4/27/2018 2:40:02 PM
+Fatal error encountered during command execution. - 4/27/2018 2:40:03 PM
+Fatal error encountered during command execution. - 4/27/2018 2:40:03 PM
+Fatal error encountered during command execution. - 4/27/2018 2:40:03 PM
+Fatal error encountered during command execution. - 4/27/2018 2:40:03 PM
+Fatal error encountered during command execution. - 4/27/2018 2:40:04 PM
+Fatal error encountered during command execution. - 4/27/2018 2:40:04 PM
+Fatal error encountered during command execution. - 4/27/2018 2:40:04 PM
+Fatal error encountered during command execution. - 4/27/2018 2:40:05 PM
+Fatal error encountered during command execution. - 4/27/2018 2:40:05 PM
+Fatal error encountered during command execution. - 4/27/2018 2:40:05 PM
+Fatal error encountered during command execution. - 4/27/2018 2:40:06 PM
+Fatal error encountered during command execution. - 4/27/2018 2:41:53 PM
+Fatal error encountered during command execution. - 4/27/2018 2:41:54 PM
+Fatal error encountered during command execution. - 4/27/2018 2:41:55 PM
+Fatal error encountered during command execution. - 4/27/2018 2:41:55 PM
+Fatal error encountered during command execution. - 4/27/2018 2:41:55 PM
+Fatal error encountered during command execution. - 4/27/2018 2:41:56 PM
+Fatal error encountered during command execution. - 4/27/2018 2:41:56 PM
+Fatal error encountered during command execution. - 4/27/2018 2:41:57 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:53 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:55 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:55 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:56 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:56 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:57 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:57 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:58 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:58 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:58 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:58 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:59 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:59 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:59 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:59 PM
+Fatal error encountered during command execution. - 4/27/2018 2:42:59 PM
+Fatal error encountered during command execution. - 4/27/2018 2:43:00 PM
+Fatal error encountered during command execution. - 4/27/2018 2:43:00 PM
+Fatal error encountered during command execution. - 4/27/2018 2:43:00 PM
+Fatal error encountered during command execution. - 4/27/2018 2:43:00 PM
+Fatal error encountered during command execution. - 4/27/2018 2:43:00 PM
+Fatal error encountered during command execution. - 4/27/2018 2:43:01 PM
+Fatal error encountered during command execution. - 4/27/2018 2:43:01 PM
+Fatal error encountered during command execution. - 4/27/2018 2:43:01 PM
+Fatal error encountered during command execution. - 4/27/2018 2:43:02 PM
+Fatal error encountered during command execution. - 4/27/2018 2:43:02 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:33 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:34 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:34 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:35 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:35 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:35 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:35 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:36 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:36 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:36 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:36 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:36 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:36 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:37 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:37 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:37 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:43 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:44 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:45 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:45 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:45 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:54 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:56 PM
+Fatal error encountered during command execution. - 4/27/2018 2:45:56 PM
+Fatal error encountered during command execution. - 4/27/2018 2:48:40 PM
+Fatal error encountered during command execution. - 4/27/2018 2:48:47 PM
+Fatal error encountered during command execution. - 4/27/2018 2:48:51 PM
+Fatal error encountered during command execution. - 4/27/2018 2:49:17 PM
+Fatal error encountered during command execution. - 4/27/2018 2:49:25 PM
+Fatal error encountered during command execution. - 4/27/2018 2:50:34 PM
+Fatal error encountered during command execution. - 4/27/2018 2:50:57 PM
+Fatal error encountered during command execution. - 4/27/2018 4:46:22 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:41 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:43 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:43 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:44 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:44 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:44 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:44 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:45 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:45 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:45 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:46 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:46 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:46 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:47 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:47 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:47 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:48 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:48 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:48 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:48 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:49 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:49 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:49 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:50 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:50 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:50 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:51 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:51 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:51 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:51 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:52 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:52 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:53 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:53 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:53 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:53 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:54 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:54 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:55 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:55 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:55 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:55 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:56 PM
+Fatal error encountered during command execution. - 4/27/2018 4:58:56 PM
+Fatal error encountered during command execution. - 4/27/2018 5:04:59 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:05 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:05 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:06 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:06 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:06 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:06 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:07 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:07 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:07 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:16 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:17 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:17 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:17 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:18 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:18 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:18 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:18 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:19 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:19 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:20 PM
+Fatal error encountered during command execution. - 4/27/2018 5:05:20 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:00 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:02 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:02 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:03 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:03 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:03 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:03 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:03 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:04 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:04 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:04 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:04 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:04 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:05 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:05 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:05 PM
+Fatal error encountered during command execution. - 4/27/2018 5:09:05 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:35:37 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:35:41 PM
+Fatal error encountered during command execution. - 4/27/2018 5:35:45 PM
+Fatal error encountered during command execution. - 4/27/2018 5:35:47 PM
+Fatal error encountered during command execution. - 4/27/2018 5:35:48 PM
+Fatal error encountered during command execution. - 4/27/2018 5:35:48 PM
+Fatal error encountered during command execution. - 4/27/2018 5:35:48 PM
+Fatal error encountered during command execution. - 4/27/2018 5:35:48 PM
+Fatal error encountered during command execution. - 4/27/2018 5:35:49 PM
+Fatal error encountered during command execution. - 4/27/2018 5:35:49 PM
+Fatal error encountered during command execution. - 4/27/2018 5:35:49 PM
+Fatal error encountered during command execution. - 4/27/2018 5:35:49 PM
+Fatal error encountered during command execution. - 4/27/2018 5:35:49 PM
+Fatal error encountered during command execution. - 4/27/2018 5:35:49 PM
+Fatal error encountered during command execution. - 4/27/2018 5:35:50 PM
+Fatal error encountered during command execution. - 4/27/2018 5:35:50 PM
+Fatal error encountered during command execution. - 4/27/2018 5:35:50 PM
+Fatal error encountered during command execution. - 4/27/2018 5:36:25 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:27 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:28 PM
+
+
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:28 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:28 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:29 PM
+
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:29 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:29 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:29 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:29 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:29 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:30 PM
+
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:30 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:30 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:30 PM
+
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:30 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:30 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:30 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:31 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:31 PM
+Unknown column 'id' in 'where clause' - 4/27/2018 5:36:31 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:31 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:33 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:33 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:33 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:34 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:34 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:34 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:34 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:35 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:35 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:35 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:35 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:35 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:36 PM
+
+Fatal error encountered during command execution. - 4/27/2018 5:38:36 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:36 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:36 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:36 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:36 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:37 PM
+Fatal error encountered during command execution. - 4/27/2018 5:38:37 PM
+Fatal error encountered during command execution. - 4/27/2018 5:54:37 PM
+Fatal error encountered during command execution. - 4/27/2018 5:54:42 PM
+Fatal error encountered during command execution. - 4/27/2018 5:54:43 PM
+Fatal error encountered during command execution. - 4/27/2018 5:54:43 PM
+Fatal error encountered during command execution. - 4/27/2018 5:54:43 PM
+Fatal error encountered during command execution. - 4/27/2018 5:54:43 PM
+Fatal error encountered during command execution. - 4/27/2018 5:54:44 PM
+Fatal error encountered during command execution. - 4/27/2018 5:54:44 PM
+
+Fatal error encountered during command execution. - 4/27/2018 5:54:44 PM
+Fatal error encountered during command execution. - 4/27/2018 5:54:44 PM
+Fatal error encountered during command execution. - 4/27/2018 5:58:40 PM
+Fatal error encountered during command execution. - 4/27/2018 5:58:42 PM
+Fatal error encountered during command execution. - 4/27/2018 5:58:43 PM
+Fatal error encountered during command execution. - 4/27/2018 5:58:43 PM
+Fatal error encountered during command execution. - 4/27/2018 5:58:43 PM
+Fatal error encountered during command execution. - 4/27/2018 5:58:44 PM
+Fatal error encountered during command execution. - 4/27/2018 5:58:44 PM
+Fatal error encountered during command execution. - 4/27/2018 5:58:44 PM
+Fatal error encountered during command execution. - 4/27/2018 5:58:44 PM
+Fatal error encountered during command execution. - 4/27/2018 5:58:44 PM
+Fatal error encountered during command execution. - 4/27/2018 5:58:44 PM
+Fatal error encountered during command execution. - 4/27/2018 6:10:17 PM
+Fatal error encountered during command execution. - 4/27/2018 6:10:19 PM
+Fatal error encountered during command execution. - 4/27/2018 6:10:20 PM
+Fatal error encountered during command execution. - 4/27/2018 6:10:20 PM
+Fatal error encountered during command execution. - 4/27/2018 6:10:21 PM
+Fatal error encountered during command execution. - 4/27/2018 6:10:21 PM
+Fatal error encountered during command execution. - 4/27/2018 6:10:21 PM
+
+Fatal error encountered during command execution. - 4/27/2018 6:10:21 PM
+Fatal error encountered during command execution. - 4/27/2018 6:10:21 PM
+Fatal error encountered during command execution. - 4/27/2018 6:10:22 PM
+Fatal error encountered during command execution. - 4/27/2018 6:10:22 PM
+Fatal error encountered during command execution. - 4/27/2018 6:10:22 PM
+
+Fatal error encountered during command execution. - 4/27/2018 6:10:22 PM
+Fatal error encountered during command execution. - 4/27/2018 6:10:23 PM
+Fatal error encountered during command execution. - 4/27/2018 6:10:23 PM
+Fatal error encountered during command execution. - 4/27/2018 6:10:23 PM
+Fatal error encountered during command execution. - 4/27/2018 6:10:23 PM
+Fatal error encountered during command execution. - 4/27/2018 6:14:40 PM
+Fatal error encountered during command execution. - 4/27/2018 6:15:45 PM
+Fatal error encountered during command execution. - 4/27/2018 6:16:36 PM
+Fatal error encountered during command execution. - 4/27/2018 6:33:07 PM
+Fatal error encountered during command execution. - 4/27/2018 6:33:08 PM
+Fatal error encountered during command execution. - 4/27/2018 6:33:08 PM
+Unable to connect to any of the specified MySQL hosts. - 5/2/2018 9:13:39 AM
+Unable to connect to any of the specified MySQL hosts. - 5/2/2018 9:14:26 AM
+
+Unable to connect to any of the specified MySQL hosts. - 5/2/2018 9:14:36 AM
+Unable to connect to any of the specified MySQL hosts. - 5/2/2018 9:16:33 AM
+Unknown column 'tdept' in 'field list' - 5/6/2018 7:56:32 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 7:56:34 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 7:56:41 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 7:58:33 PM
+Unknown column 'tunit' in 'field list' - 5/6/2018 7:58:47 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 8:00:40 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 8:00:42 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 8:00:42 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 8:00:42 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 8:00:42 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 8:00:42 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 8:00:42 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 8:00:43 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 8:00:43 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 8:00:43 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 8:00:43 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 8:00:43 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 8:00:44 PM
+Unknown column 'tdept' in 'field list' - 5/6/2018 8:00:44 PM
+Unknown column 'tunit' in 'field list' - 5/7/2018 12:29:49 PM
+Unknown column 'tunit' in 'field list' - 5/7/2018 12:29:50 PM
+Connection must be valid and open. - 5/10/2018 9:47:38 AM
+Connection must be valid and open. - 5/10/2018 9:47:44 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/17/2018 6:54:20 PM
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/17/2018 6:54:23 PM
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/17/2018 6:54:34 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/17/2018 6:55:37 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:48 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:52 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:52 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:52 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:53 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:53 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:53 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:54 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:54 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:55 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:55 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:55 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:55 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:56 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:56 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:08:56 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:10:56 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:10:57 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:10:59 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:10:59 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:11:07 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:11:52 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:11:53 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:14:57 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:15:39 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:18:01 AMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:18:45 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:26:08 AM
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/18/2018 10:27:04 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:49:52 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:49:53 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:49:54 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:49:54 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:49:55 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:49:55 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:49:56 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:50:05 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:50:06 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:50:06 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:50:06 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:50:48 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:50:50 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:50:50 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:50:51 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:50:51 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:50:51 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:50:52 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:50:52 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:50:52 AM
+Object reference not set to an instance of an object. - 5/18/2018 10:50:52 AM
+Object reference not set to an instance of an object. - 5/19/2018 10:46:15 AM
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/22/2018 10:11:25 AM
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 5/22/2018 10:11:47 AM
+Object reference not set to an instance of an object. - 5/22/2018 8:53:03 PM
+Object reference not set to an instance of an object. - 5/22/2018 8:53:32 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:00:51 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:02:11 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:02:47 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:25 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:26 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:26 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:26 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:27 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:27 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:27 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:28 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:28 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:28 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:29 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:29 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:29 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:29 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:29 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:29 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:29 PM
+
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:30 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:30 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:30 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:30 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:30 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:30 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:09:31 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:03 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:04 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:05 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:05 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:05 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:05 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:06 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:06 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:06 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:07 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:09 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:09 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:10 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:10 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:10 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:11 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:10:11 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:08 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:10 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:10 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:10 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:10 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:10 PM
+
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:11 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:11 PM
+
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:11 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:11 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:11 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:11 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:12 PM
+
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:12 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:12 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:12 PM
+
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:12 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:13 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:13 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:13 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:13 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:13 PM
+
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:13 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:13 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:13 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:14 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:14 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:14 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:14 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:14 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:14 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:15 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:15 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:15 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:15 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:15 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:16 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:14:16 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:19:52 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:21:55 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:21:57 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:21:57 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:21:57 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:21:57 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:21:58 PM
+
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:21:58 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:21:58 PM
+
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:22:04 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 3:22:59 PM
+Unable to connect to any of the specified MySQL hosts. - 7/18/2018 5:11:35 PM
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/18/2018 5:11:35 PM
+Unable to connect to any of the specified MySQL hosts. - 7/18/2018 5:11:46 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 5:13:19 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 5:13:19 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 5:13:20 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 5:13:20 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 5:13:21 PM
+Table 'jobauto.tbllogjob' doesn't exist - 7/18/2018 5:13:26 PM
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. - 7/19/2018 12:25:50 PM
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. - 7/19/2018 12:25:53 PM
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. - 7/19/2018 12:25:54 PM
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. - 7/19/2018 12:25:55 PM
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. - 7/19/2018 12:25:55 PM
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. - 7/19/2018 12:25:55 PM
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. - 7/19/2018 12:25:55 PM
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. - 7/19/2018 12:25:56 PM
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. - 7/19/2018 12:25:56 PM
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. - 7/19/2018 12:25:56 PM
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. - 7/19/2018 12:25:56 PM
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. - 7/19/2018 12:25:56 PM
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. - 7/19/2018 12:25:57 PM
+Fatal error encountered during command execution. - 7/19/2018 12:27:30 PM
+Fatal error encountered during command execution. - 7/19/2018 12:27:34 PM
+Fatal error encountered during command execution. - 7/19/2018 12:53:26 PM
+Unable to connect to any of the specified MySQL hosts. - 7/20/2018 9:09:41 PM
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/20/2018 9:09:42 PM
+Fatal error encountered during command execution. - 7/21/2018 3:46:51 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 4:37:36 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 4:39:03 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 4:45:08 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 5:58:40 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 6:00:42 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 6:00:56 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 6:01:49 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 6:02:00 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 6:03:21 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 6:09:40 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 6:37:04 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 6:37:38 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 6:39:53 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 6:42:02 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 6:55:57 PMIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index - 7/21/2018 7:16:03 PMUnable to connect to any of the specified MySQL hosts. - 7/26/2018 7:05:37 PMConnection must be valid and open. - 7/26/2018 7:05:38 PM

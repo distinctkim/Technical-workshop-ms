@@ -1,0 +1,949 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{58608953-038B-4D8B-AD67-E35732B8FE16}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JobCardSystem</RootNamespace>
+    <AssemblyName>JobCardSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\Distinctkim\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Tasks.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>86C386429FCF74353D31EC522BC4CF007564257E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>JobCardSystem_1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>C:\Program Files (x86)\Bunifu Technologies\Bunifu Framework Manager\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Navigator, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e" />
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e" />
+    <Reference Include="ComponentFactory.Krypton.Workspace, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.BonusSkins.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v17.1.Core, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v17.1.Core, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DGV Printer">
+      <HintPath>C:\Users\Distinctkim\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\Sample codes\DGV Printer.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MaterialSkin">
+      <HintPath>C:\Users\Distinctkim\Documents\Visual Studio 2015\Projects\material design\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data">
+      <HintPath>H:\MySqlData\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="SQLABC_ModernUI">
+      <HintPath>F:\Previous backup\ModernUI\SQLABC_ModernUI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.RegularExpressions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tulpep.NotificationWindow, Version=1.1.25.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Tulpep.NotificationWindow.1.1.25\lib\net40\Tulpep.NotificationWindow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DBMySQLUtils.cs" />
+    <Compile Include="DBUtils.cs" />
+    <Compile Include="Forms\frmadminhome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmadminhome.Designer.cs">
+      <DependentUpon>frmadminhome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbackupdb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbackupdb.Designer.cs">
+      <DependentUpon>frmbackupdb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBill.Designer.cs">
+      <DependentUpon>frmBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmbillinfogrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmbillinfogrid.Designer.cs">
+      <DependentUpon>frmbillinfogrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmcheckconn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmcheckconn.Designer.cs">
+      <DependentUpon>frmcheckconn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmcommunication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmcommunication.Designer.cs">
+      <DependentUpon>frmcommunication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmcommunicationadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmcommunicationadmin.Designer.cs">
+      <DependentUpon>frmcommunicationadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmconfirmedItemsreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmconfirmedItemsreport.Designer.cs">
+      <DependentUpon>frmconfirmedItemsreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmconfirmequipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmconfirmequipment.Designer.cs">
+      <DependentUpon>frmconfirmequipment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmconfirmequipmentgrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmconfirmequipmentgrid.Designer.cs">
+      <DependentUpon>frmconfirmequipmentgrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmcreatecustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmcreatecustomer.Designer.cs">
+      <DependentUpon>frmcreatecustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmcustomergrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmcustomergrid.Designer.cs">
+      <DependentUpon>frmcustomergrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmequipdiagnosisgrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmequipdiagnosisgrid.Designer.cs">
+      <DependentUpon>frmequipdiagnosisgrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmequipfaults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmequipfaults.Designer.cs">
+      <DependentUpon>frmequipfaults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmequipfaultsgrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmequipfaultsgrid.Designer.cs">
+      <DependentUpon>frmequipfaultsgrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmequipmentstatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmequipmentstatus.Designer.cs">
+      <DependentUpon>frmequipmentstatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmequipmentstatusgrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmequipmentstatusgrid.Designer.cs">
+      <DependentUpon>frmequipmentstatusgrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmExternalcomm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmExternalcomm.Designer.cs">
+      <DependentUpon>frmExternalcomm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmExternalCommAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmExternalCommAdmin.Designer.cs">
+      <DependentUpon>frmExternalCommAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmfaultdictionary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmfaultdictionary.Designer.cs">
+      <DependentUpon>frmfaultdictionary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmforgotpassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmforgotpassword.Designer.cs">
+      <DependentUpon>frmforgotpassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInternalComm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInternalComm.Designer.cs">
+      <DependentUpon>frmInternalComm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInternalCommadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInternalCommadmin.Designer.cs">
+      <DependentUpon>frmInternalCommadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmitempickup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmitempickup.Designer.cs">
+      <DependentUpon>frmitempickup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmItemdiagnosisreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmItemdiagnosisreport.Designer.cs">
+      <DependentUpon>frmItemdiagnosisreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmItemlogreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmItemlogreport.Designer.cs">
+      <DependentUpon>frmItemlogreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmitemquotereport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmitemquotereport.Designer.cs">
+      <DependentUpon>frmitemquotereport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmitemrequirementsreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmitemrequirementsreport.Designer.cs">
+      <DependentUpon>frmitemrequirementsreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmloadreqgrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmloadreqgrid.Designer.cs">
+      <DependentUpon>frmloadreqgrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmloadtarrifgrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmloadtarrifgrid.Designer.cs">
+      <DependentUpon>frmloadtarrifgrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmlogequipgridadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmlogequipgridadmin.Designer.cs">
+      <DependentUpon>frmlogequipgridadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmlogequipmentgrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmlogequipmentgrid.Designer.cs">
+      <DependentUpon>frmlogequipmentgrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmloginaccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmloginaccount.Designer.cs">
+      <DependentUpon>frmloginaccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmmanageusers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmmanageusers.Designer.cs">
+      <DependentUpon>frmmanageusers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmnewpassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmnewpassword.Designer.cs">
+      <DependentUpon>frmnewpassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmpendingItemsreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmpendingItemsreport.Designer.cs">
+      <DependentUpon>frmpendingItemsreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmquoteInfoGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmquoteInfoGrid.Designer.cs">
+      <DependentUpon>frmquoteInfoGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmquote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmquote.Designer.cs">
+      <DependentUpon>frmquote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmreportsmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmreportsmenu.Designer.cs">
+      <DependentUpon>frmreportsmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmrequirements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmrequirements.Designer.cs">
+      <DependentUpon>frmrequirements.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmrequirementsgrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmrequirementsgrid.Designer.cs">
+      <DependentUpon>frmrequirementsgrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmsecurityquestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmsecurityquestion.Designer.cs">
+      <DependentUpon>frmsecurityquestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmsetupdepartments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmsetupdepartments.Designer.cs">
+      <DependentUpon>frmsetupdepartments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmsetupdeptgrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmsetupdeptgrid.Designer.cs">
+      <DependentUpon>frmsetupdeptgrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmsetupequipmentfaults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmsetupequipmentfaults.Designer.cs">
+      <DependentUpon>frmsetupequipmentfaults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmsetupshifts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmsetupshifts.Designer.cs">
+      <DependentUpon>frmsetupshifts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmsetuptarrifs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmsetuptarrifs.Designer.cs">
+      <DependentUpon>frmsetuptarrifs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmequipmentdiagnosis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmequipmentdiagnosis.Designer.cs">
+      <DependentUpon>frmequipmentdiagnosis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmlogin.Designer.cs">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmlogequipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmlogequipment.Designer.cs">
+      <DependentUpon>frmlogequipment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmshiftInfoGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmshiftInfoGrid.Designer.cs">
+      <DependentUpon>frmshiftInfoGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmsplashscreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmsplashscreen.Designer.cs">
+      <DependentUpon>frmsplashscreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmmanageusersgrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmmanageusersgrid.Designer.cs">
+      <DependentUpon>frmmanageusersgrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmtrainingvideos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmtrainingvideos.Designer.cs">
+      <DependentUpon>frmtrainingvideos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUserManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUserManager.Designer.cs">
+      <DependentUpon>frmUserManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmusers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmusers.Designer.cs">
+      <DependentUpon>frmusers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmviewcleareditems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmviewcleareditems.Designer.cs">
+      <DependentUpon>frmviewcleareditems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmviewcleareditemsadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmviewcleareditemsadmin.Designer.cs">
+      <DependentUpon>frmviewcleareditemsadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmviewloggedequip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmviewloggedequip.Designer.cs">
+      <DependentUpon>frmviewloggedequip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmviewpickeditems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmviewpickeditems.Designer.cs">
+      <DependentUpon>frmviewpickeditems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmviewpickeditemstech.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmviewpickeditemstech.Designer.cs">
+      <DependentUpon>frmviewpickeditemstech.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmviewuncleareditems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmviewuncleareditems.Designer.cs">
+      <DependentUpon>frmviewuncleareditems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\frmadminhome.resx">
+      <DependentUpon>frmadminhome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbackupdb.resx">
+      <DependentUpon>frmbackupdb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBill.resx">
+      <DependentUpon>frmBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmbillinfogrid.resx">
+      <DependentUpon>frmbillinfogrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmcheckconn.resx">
+      <DependentUpon>frmcheckconn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmcommunication.resx">
+      <DependentUpon>frmcommunication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmcommunicationadmin.resx">
+      <DependentUpon>frmcommunicationadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmconfirmedItemsreport.resx">
+      <DependentUpon>frmconfirmedItemsreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmconfirmequipment.resx">
+      <DependentUpon>frmconfirmequipment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmconfirmequipmentgrid.resx">
+      <DependentUpon>frmconfirmequipmentgrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmcreatecustomer.resx">
+      <DependentUpon>frmcreatecustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmcustomergrid.resx">
+      <DependentUpon>frmcustomergrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmequipdiagnosisgrid.resx">
+      <DependentUpon>frmequipdiagnosisgrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmequipfaults.resx">
+      <DependentUpon>frmequipfaults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmequipfaultsgrid.resx">
+      <DependentUpon>frmequipfaultsgrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmequipmentdiagnosis.resx">
+      <DependentUpon>frmequipmentdiagnosis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmequipmentstatus.resx">
+      <DependentUpon>frmequipmentstatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmequipmentstatusgrid.resx">
+      <DependentUpon>frmequipmentstatusgrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmExternalcomm.resx">
+      <DependentUpon>frmExternalcomm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmExternalCommAdmin.resx">
+      <DependentUpon>frmExternalCommAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmfaultdictionary.resx">
+      <DependentUpon>frmfaultdictionary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmforgotpassword.resx">
+      <DependentUpon>frmforgotpassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInternalComm.resx">
+      <DependentUpon>frmInternalComm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInternalCommadmin.resx">
+      <DependentUpon>frmInternalCommadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmitempickup.resx">
+      <DependentUpon>frmitempickup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmItemdiagnosisreport.resx">
+      <DependentUpon>frmItemdiagnosisreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmItemlogreport.resx">
+      <DependentUpon>frmItemlogreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmitemquotereport.resx">
+      <DependentUpon>frmitemquotereport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmitemrequirementsreport.resx">
+      <DependentUpon>frmitemrequirementsreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmloadreqgrid.resx">
+      <DependentUpon>frmloadreqgrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmloadtarrifgrid.resx">
+      <DependentUpon>frmloadtarrifgrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmlogequipgridadmin.resx">
+      <DependentUpon>frmlogequipgridadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmlogequipmentgrid.resx">
+      <DependentUpon>frmlogequipmentgrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmloginaccount.resx">
+      <DependentUpon>frmloginaccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmmanageusers.resx">
+      <DependentUpon>frmmanageusers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmnewpassword.resx">
+      <DependentUpon>frmnewpassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmpendingItemsreport.resx">
+      <DependentUpon>frmpendingItemsreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmquoteInfoGrid.resx">
+      <DependentUpon>frmquoteInfoGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmquote.resx">
+      <DependentUpon>frmquote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmreportsmenu.resx">
+      <DependentUpon>frmreportsmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmrequirements.resx">
+      <DependentUpon>frmrequirements.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmrequirementsgrid.resx">
+      <DependentUpon>frmrequirementsgrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmsecurityquestion.resx">
+      <DependentUpon>frmsecurityquestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmsetupdepartments.resx">
+      <DependentUpon>frmsetupdepartments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmsetupdeptgrid.resx">
+      <DependentUpon>frmsetupdeptgrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmsetupequipmentfaults.resx">
+      <DependentUpon>frmsetupequipmentfaults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmsetupshifts.resx">
+      <DependentUpon>frmsetupshifts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmsetuptarrifs.resx">
+      <DependentUpon>frmsetuptarrifs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmlogin.resx">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmlogequipment.resx">
+      <DependentUpon>frmlogequipment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmshiftInfoGrid.resx">
+      <DependentUpon>frmshiftInfoGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmsplashscreen.resx">
+      <DependentUpon>frmsplashscreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmmanageusersgrid.resx">
+      <DependentUpon>frmmanageusersgrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmtrainingvideos.resx">
+      <DependentUpon>frmtrainingvideos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUserManager.resx">
+      <DependentUpon>frmUserManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmusers.resx">
+      <DependentUpon>frmusers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmviewcleareditems.resx">
+      <DependentUpon>frmviewcleareditems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmviewcleareditemsadmin.resx">
+      <DependentUpon>frmviewcleareditemsadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmviewloggedequip.resx">
+      <DependentUpon>frmviewloggedequip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmviewpickeditems.resx">
+      <DependentUpon>frmviewpickeditems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmviewpickeditemstech.resx">
+      <DependentUpon>frmviewpickeditemstech.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmviewuncleareditems.resx">
+      <DependentUpon>frmviewuncleareditems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="JobCardSystem_1_TemporaryKey.pfx" />
+    <None Include="JobCardSystem_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486398710_resolutions-23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486398759_General_-_Office_301.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486403444_Server.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report-icon.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sidebar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sidebar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application-edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add Rule-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trackjob.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\priveledge.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\priveledge1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slidebutton.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application-form-edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\screen_on1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Control_Panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Computer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fraps.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Power_-_Standby.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Live_Messenger_alt_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Journal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tasks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Computer1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Configure_alt_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Live_Messenger_alt_31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486401526_shop_wallet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User Accounts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User Accounts alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User Accounts 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Personal.png" />
+    <None Include="Resources\add1.png" />
+    <None Include="Resources\Save 1.png" />
+    <None Include="Resources\Update1.png" />
+    <None Include="Resources\Delete.png" />
+    <None Include="Resources\Exit.png" />
+    <None Include="Resources\Save 11.png" />
+    <None Include="Resources\Sync Center1.png" />
+    <None Include="Resources\Adobe Spark %281%29.jpg" />
+    <None Include="Resources\Live_Hotmail.png" />
+    <None Include="Resources\logo-designer.png" />
+    <None Include="Resources\Power - Sleep.png" />
+    <None Include="Resources\logo-designer.jpg" />
+    <None Include="Resources\User Accounts alt_mirror.png" />
+    <None Include="Resources\Personal1.png" />
+    <None Include="Resources\BitLocker.png" />
+    <None Include="Resources\Contacts_mirror.png" />
+    <None Include="Resources\login keys.jpg" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\Bookmarks Folder.png" />
+    <None Include="Resources\Blank Folder.png" />
+    <None Include="Resources\Word 2013_mirror.png" />
+    <None Include="Resources\Calculator alt.png" />
+    <None Include="Resources\cancel btn 2.jpg" />
+    <None Include="Resources\trackjob1.png" />
+    <None Include="Resources\report11.jpg" />
+    <None Include="Resources\trackjob11.png" />
+    <None Include="Resources\seperator.png" />
+    <None Include="Resources\Indexing Options.png" />
+    <None Include="Resources\Printer.png" />
+    <None Include="Resources\Printer1.png" />
+    <None Include="Resources\Search1.png" />
+    <None Include="Resources\Excel 2013.png" />
+    <None Include="Resources\accept.png" />
+    <None Include="Resources\Windows Card Space.png" />
+    <None Include="Resources\Group1.png" />
+    <None Include="Resources\Untitled document %282%29.png" />
+    <None Include="Resources\Logo.png" />
+    <None Include="Resources\LOGO 2.png" />
+    <None Include="Resources\Untitled document %283%29.png" />
+    <None Include="Resources\Logo 3.png" />
+    <None Include="Resources\Logo 31.png" />
+    <None Include="Resources\Untitled document %284%29.png" />
+    <None Include="Resources\char.jpg" />
+    <None Include="Resources\Journal1.png" />
+    <None Include="Resources\Calculator.png" />
+    <None Include="Resources\delete1.png" />
+    <Content Include="Tasks.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="JC Grids\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
